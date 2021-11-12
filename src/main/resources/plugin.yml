@@ -1,0 +1,13 @@
+name: Itemplugin
+version: 0.1.2
+main: itemplugin.itemplugin.Main
+api-version: 1.16
+prefix: itemp
+author: AaronR92
+description: Plugin that canges and adds items
+commands:
+  givebarbarianaxe:
+
+  createNPCKnight:
+  createNPCTravellerGuide1:
+  createNPCKraresWizard:
